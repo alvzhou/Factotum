@@ -27,7 +27,7 @@
     "discord.js": "^12.5.3",
     "discord.js-commando": "^0.12.3",
     "dotenv-flow": "^3.2.0",
-    "firebase-admin": "^9.11.1",
+    "firebase-admin": "^11.4.1",
     "fs": "0.0.1-security",
     "get-random-emoji": "^1.0.0",
     "mongodb": "^3.7.1",
